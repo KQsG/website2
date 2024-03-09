@@ -1,0 +1,46 @@
+project:
+  type: website
+  execute-dir: project
+
+website:
+  title: "Tian Qiu 140xo"
+  reader-mode: true
+  navbar:
+    title: false
+    collapse-below: sm  
+    left:
+      - href: index.qmd
+        text: About
+      - href: project.qmd
+        text: Experience
+    right: 
+      - icon: github
+        menu:
+          - text: Website Source Code
+            url:  https://github.com/KQsG/quarto-website
+          - text: Github Profile
+            url:  https://github.com/KQsG
+      - icon: linkedin
+        menu:
+          - text: linkedin 
+            url: https://www.linkedin.com/in/tian-qiu-3302372b9
+  page-footer:
+    right: "&copy; 2024, Tian Qiu"
+  comments:
+    utterances:
+      repo: tianqiu/quarto-website
+
+# Format-specific Metadata
+format:
+  html:
+    theme: 
+      light: slate
+      dark: darkly
+    toc: false
+    published-title: "last updated"
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+
+execute:
+  freeze: auto

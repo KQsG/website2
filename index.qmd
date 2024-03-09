@@ -1,0 +1,11 @@
+---
+comments: false
+---
+
+![](doc/photo/123.jpg){width="320"}
+
+I am currently foruth year Statistic Undergraduate student at University of California, Los Angeles *(UCLA)*. Love all kinds of sports and authentic Asian cuisines.
+
+Learn more about me from my [CV](/doc/cv/cv.pdf "CV")
+
+**Email** : kenqiufot\@gmail.com <br/>

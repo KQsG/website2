@@ -1,0 +1,13 @@
+---
+comments: false
+---
+
+![](doc/photo/project-design-in-project-management.png.webp)
+
+## Projects
+
+1.  Claudia Alvarez, Bryce Jones, Brenna Kjorness, Tian Qiu. The story of Australia's historic 2019-2020 bushfire season, told through data. [Black Summer](https://dataists.humspace.ucla.edu/)
+
+2.  Aidan Gresham, Thomas Blakely, Tian Qiu, Wesley Bian, Yaquan Wang, Yuzhi Yao. Evaluating Choice of Sentiment Lexicon on Machine Learning Model Accuracy. [Machine Learning](/doc/project/101c.pdf "101c")
+
+3.  (Ongoing) Ashish Singh, Tian Qiu, Jun Ryu, Yuki Yu, Teresa Bui, Chinmayee Chalamalasetti. Heart Failure Prediction. [Poster and full document](/doc/project/140.png "140")
